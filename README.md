@@ -3,7 +3,7 @@
 
 Hi I'm Donavyn. I'm a software engineer who is passonite about developing unique AI projects, creating dynamic web apps, and delving deep into new technologies. 
 
-- 🔭 I’m currently working on an emotinoal tracker app for Boys and Girls Club
+- 🔭 I’m currently working on an emotional tracker app for Boys and Girls Club
 - 🌱 I’m currently learning Node.js
 - 👯 I’m looking to collaborate on any projects involving AI.
 - 😄 Pronouns: Him/He
