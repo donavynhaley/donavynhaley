@@ -8,5 +8,3 @@ Hi, I'm Donavyn. I'm a forward-thinking software engineer with a passion for mer
 - 👨‍💻 While my current projects are under wraps, I'm excited about the possibilities that lie ahead at the crossroads of computing and neural sciences.
 - 👯 I’m open to collaborations that explore new frontiers in technology, especially those that push the boundaries of human-computer interaction.
 - 😄 Pronouns: He/Him
-
-![Donavyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=donavynhaley&show_icons=true&theme=synthwave)
