@@ -1,11 +1,20 @@
-### Hello
+# Donavyn Haley
 
-Hi, I'm Donavyn Haley, a multidisciplinary software engineer focused on system-level programming, distributed architectures, and machine learning integration for modern web applications.
+Software engineer in the Portland area. Currently at Capital One through TEKsystems, working on
+agentic engineering tooling and application security. Co-founder and CTO of FITREPS.
 
-* **Currently Exploring:** Low-level systems programming and high-performance backend design using Go.
-* **Machine Learning Integration:** Developing ML-driven features within full-stack applications to enhance automation and decision-making.
-* **Technical Expertise:** Frontend (React, Next.js, TypeScript), backend (Node.js, Go, Spring Boot), and infrastructure (Azure, AWS, Kubernetes, Bicep).
-* **Problem Solver:** Dedicated to bridging the gap between robust software systems and intelligent automation, optimizing everything from data pipelines to deployment workflows.
-* **Recent Projects:** Architected secure analytics platforms with Power BI and Azure AD, built real-time WebRTC signaling systems in Go, and deployed scalable React + Prisma applications for enterprise clients.
-* **Systems Architecture:** Actively developing expertise in high-level systems architecture with a focus on distributed system design, scalability, and fault tolerance.
-* **Collaboration:** Always open to creative, high-impact projects that push the limits of web and systems engineering.
+**FITREPS** — creator monetization platform for fitness. I lead the backend, infrastructure, shared
+core package, and test platform: 34 Lambda services, 268 API routes, a 97-table Aurora PostgreSQL
+schema, and a 499-spec Playwright suite. Built the admin application, the analytics instrumentation,
+and the payments and access-control surface.
+
+**Monkey Code** — multi-agent coding harness. The plan/code/review/merge loop is a state machine in
+harness code; agents give judgment inside a stage and never pick the next one. Parallel coders in
+isolated git worktrees, visual review driven over the Chrome DevTools Protocol, replayable runs.
+
+**Homelab** — Proxmox cluster running five production guests behind Cloudflare Tunnels, with restic
+offsite backup, automated restore verification, and self-hosted CI runners.
+
+Go · TypeScript · Java · Python · React · Next.js · Node · AWS · Azure · GCP · Kubernetes · Terraform · Playwright
+
+Most of my current work is in private repos.
